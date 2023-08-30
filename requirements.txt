@@ -1,4 +1,4 @@
-python-telegram-bot==21.7
+python-telegram-bot
 pytube==11.0.0
 python-decouple==3.5
 moviepy==1.0.3
